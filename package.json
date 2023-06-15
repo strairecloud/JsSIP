@@ -21,17 +21,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/JsSIP.git"
+    "url": "https://github.com/strairecloud/JsSIP.git"
   },
   "bugs": {
     "url": "https://github.com/versatica/JsSIP/issues"
   },
   "dependencies": {
-    "@types/events": "^3.0.0",
     "@types/debug": "^4.1.7",
+    "@types/events": "^3.0.0",
     "debug": "^4.3.1",
     "events": "^3.3.0",
-    "sdp-transform": "^2.14.1"
+    "sdp-transform": "^2.14.1",
+    "wrtc": "^0.4.7"
   },
   "devDependencies": {
     "@babel/core": "^7.19.6",
